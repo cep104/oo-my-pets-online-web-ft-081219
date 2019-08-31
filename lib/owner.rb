@@ -67,9 +67,7 @@ class Owner
       
     end
    @@pets.each do |pet, arr|
-      # arr.map do |pet|
-
- arr.clear
+      arr.clear
  end
  end
     
