@@ -65,8 +65,7 @@ class Owner
       pet.mood = "nervous"
       # pet.owner = nil
     end
-   self.dog.clear
-   self.cats.clear
+   
  end
     
   
