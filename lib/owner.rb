@@ -66,7 +66,9 @@ class Owner
       # pet.owner = nil
       
     end
-   
+   pets.each do |pet, arr|
+ end
+ arr.clear
  end
     
   
